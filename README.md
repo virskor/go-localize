@@ -1,9 +1,9 @@
 # go-localize
 
-[![GoDoc](https://godoc.org/github.com/m1/go-localize?status.svg)](https://godoc.org/github.com/m1/go-localize)
+[![GoDoc](https://godoc.org/github.com/virskor/go-localize?status.svg)](https://godoc.org/github.com/virskor/go-localize)
 [![Build Status](https://travis-ci.org/m1/go-localize.svg?branch=master)](https://travis-ci.org/m1/go-localize)
-[![Go Report Card](https://goreportcard.com/badge/github.com/m1/go-localize)](https://goreportcard.com/report/github.com/m1/go-localize)
-[![Release](https://img.shields.io/github/release/m1/go-localize.svg)](https://github.com/m1/go-localize/releases/latest)
+[![Go Report Card](https://goreportcard.com/badge/github.com/virskor/go-localize)](https://goreportcard.com/report/github.com/virskor/go-localize)
+[![Release](https://img.shields.io/github/release/m1/go-localize.svg)](https://github.com/virskor/go-localize/releases/latest)
 [![codecov](https://codecov.io/gh/m1/go-localize/branch/master/graph/badge.svg)](https://codecov.io/gh/m1/go-localize)
 
 __Simple and easy to use i18n (Internationalization and localization) engine written in Go, used for translating locale strings. 
